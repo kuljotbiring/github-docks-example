@@ -33,10 +33,11 @@ def factorial(n):
 number = 5
 print("Factorial of", number, "is", factorial(number))
 ```
-- Make not of where the backtick button is located.
-- It should appear above the tab key, but it may vary based on your keyboard layout.
+- Make note of where the backtick keyboard key is located.
+- It should appear above the tab key
+- but it may vary based on your keyboard layout.
 
-![terraform](https://github.com/kuljotbiring/github-docks-example/assets/34665034/4fd0e17e-1774-4385-95c9-a8e4d9c81e7d)
+![Backtick](assets/backtick-key.png)
 
 Good Cloud Engineers use codeblocks for both code and Errors that appear in the console.
 
@@ -77,6 +78,11 @@ Here are some examples:
 ```
 Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options. [<sup>[2]</sup>](#user-content-references)
 
+- Make note of where the pipe keyboard key is located.
+- It should appear above the return or entter key
+- but it may vary based on your keyboard layout.
+
+![Pipe](assets/pipe-key.png)
 
 ## References
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
